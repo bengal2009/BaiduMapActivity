@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\blin.CSAVAGENCIES\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\blin.CSAVAGENCIES\AndroidStudioProjects\BaiduMapActivity\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-9ec2b95a684791ee10085e905c4c2ce8549b596b.jar" />
+    </item>
+    <item
+        jar="C:\Users\blin.CSAVAGENCIES\AndroidStudioProjects\BaiduMapActivity\app\libs\baidumapapi_v2_1_2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f30d13f4864e0a20c53ae08b01a0749b5668c0e">
+        <dex dex="C:\Users\blin.CSAVAGENCIES\AndroidStudioProjects\BaiduMapActivity\app\build\intermediates\pre-dexed\debug\baidumapapi_v2_1_2-9a4027ec810abbb81229bccf46cb68d5c116558c.jar" />
+    </item>
+
+</items>
